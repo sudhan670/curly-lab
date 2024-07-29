@@ -2,4 +2,6 @@ pandas
 streamlit
 scikit-learn
 transformers
-torch
+torch==2.0.0+cpu
+torchvision==0.15.1+cpu
+torchaudio==2.0.1+cpu
