@@ -31,7 +31,7 @@ To run this project, you need to have Python installed. Follow the steps below t
     pip install streamlit scikit-learn
     ```
 ## Demo 
-
+<img src="https://github.com/sudhan670/curly-lab/blob/main/Screenshot%202024-07-30%20104307.png"/>
 ## Usage
 To run the Streamlit application, use the following command:
 ```bash
